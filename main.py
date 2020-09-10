@@ -30,3 +30,6 @@ if scene == "bouncers":
     elif chump_reply == "d" or "D" or "(d)":
         personality = "criminal" #is there a more overseeable way of keeping all of your variables (e.g. personality, street cred, money, etc.) in one place?
 #the branching + nesting is quickly getting out of hand, especially if there is more interactive dialogue with the bouncers based on previous answers. How to organise this more coherently?
+
+
+# comment
